@@ -1,5 +1,6 @@
-# weibo
+![11](https://github.com/user-attachments/assets/4c251ce8-9bc1-4c4a-b820-506837d4b243)# weibo
 react+node的微博客户端
-![1](https://github.com/user-attachments/assets/1ec31efb-e875-4d92-a57f-eeb65517ff43)![2](https://github.com/user-attachments/assets/d409a5fd-8d92-4eeb-8338-5de27e676cc5)
-![2](https://github.com/user-attachments/assets/748fd2d9-cccb-4644-8b78-97bd4787ec57)
+![11](https://github.com/user-attachments/assets/d8d3dfca-488b-4e1c-9242-5de430167c20)
+![12](https://github.com/user-attachments/assets/7c0067ed-a567-4ed3-856d-2a18f5d6c249)
+![13](https://github.com/user-attachments/assets/d0ce9ec9-5ed0-4db7-b840-b3608325d68a)
 

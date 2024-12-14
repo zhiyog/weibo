@@ -1,0 +1,9 @@
+.post-form {
+    margin-top: 50px;
+    padding: 20px;
+    max-width: 600px;
+}
+.post-form-title {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    margin-bottom: 0%;
+    background-color: rgb(250, 250, 250); /* 顶部导航栏背景色 */
+  }
+  
+  .top-bar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .top-bar-name {
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  

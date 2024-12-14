@@ -1,0 +1,51 @@
+/* 设置整体的背景色和字体 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+/* 个人中心容器样式 */
+.person {
+  max-width: 600px;
+  margin: 100px auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* 标题样式 */
+.person h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+/* 头像样式 */
+.person img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ddd;
+  margin-bottom: 20px;
+}
+
+/* 昵称样式 */
+.person p {
+  font-size: 1.2rem;
+  color: #555;
+  font-weight: 500;
+}
+
+.btn-group{
+  display: flex;
+  gap: 10px ;
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}

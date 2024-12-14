@@ -1,0 +1,25 @@
+  .login-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(249, 246, 244);
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* 文字内容样式 */
+  .welcome-title {
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 35px;
+}
+.back-button {
+  position: fixed; /* 固定定位 */
+  top: 25px;    /* 距离底部 16px */
+  left: 25px;      /* 距离左侧 16px */
+}

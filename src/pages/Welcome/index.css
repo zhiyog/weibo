@@ -1,0 +1,45 @@
+/* 整体容器样式 */
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 垂直居中 */
+    align-items: center; /* 水平居中 */
+    height: 100vh; /* 占满整个视口 */
+    color: #333333; /* 偏黑字体颜色 */
+    background-color: rgb(249, 246, 244);
+    text-align: center;
+    margin: 0; /* 去除默认外边距 */
+  }
+  
+  /* 文字内容样式 */
+  .welcome-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .welcome-subtitle {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .welcome-description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  /* 链接样式 */
+  .welcome-description a {
+    color: #555555; /* 偏黑色链接 */
+    text-decoration: none;
+  }
+  
+  .welcome-description a:hover {
+    text-decoration: underline;
+  }
+  
+.welcome-button {
+
+  margin-top: 20px;
+  }

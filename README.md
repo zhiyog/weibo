@@ -1,5 +1,6 @@
 # weibo
 react+node的微博客户端
+<<<<<<< HEAD
 # 环境配置
 
 ```
@@ -27,3 +28,10 @@ MySQL: 作为关系型数据库管理系统，存储用户数据和微博内容�
 # 开发工具
 Visual Studio Code: 作为开发 IDE，支持 React 和 Node.js 的开发。
 Navicat: 数据库可视化工具。
+=======
+
+![11](https://github.com/user-attachments/assets/d8d3dfca-488b-4e1c-9242-5de430167c20)
+![12](https://github.com/user-attachments/assets/7c0067ed-a567-4ed3-856d-2a18f5d6c249)
+![13](https://github.com/user-attachments/assets/d0ce9ec9-5ed0-4db7-b840-b3608325d68a)
+
+>>>>>>> f1134895b0a7bf58e03def35b61336dc1400e3ba

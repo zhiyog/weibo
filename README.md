@@ -1,7 +1,7 @@
 # weibo
 react+node的微博客户端
 
-# 环境配置（不全）
+# 环境配置
 
 ```
 npm install 

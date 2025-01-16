@@ -4,12 +4,7 @@ react+node的微博客户端
 # 环境配置（不全）
 
 ```
-npm install antd
-npm install axios express jwt-simple
-npm install axios react-navigation react-navigation-stack react-native-gesture-handler react-native-reanimated
-npm install react-router-dom
-npm install --save-dev @types/react-router-dom
-npm install jsonwebtoken
+npm install 
 ```
 
 # 前端
